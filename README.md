@@ -1,12 +1,13 @@
 # display-usernames
 
-* I created a webpage that validates a user and returns user details
-    * Accept details using prompts
-    * Uses an object to store user details
-    * Validate user details
-    * Username must be less than ten
-    * Password must be greater than six
-    * User must confirms password
-    * If username and password do not match, alert the user
-    * Display user details
+I created a webpage that validates a user and returns user details
+* It works by:
+    * Accepting details from the user using prompts
+    * Using an object to store user details
+    * Validating user details
+    * Ensuring that username must be less than ten
+    * Ensuring that password must be greater than six
+    * Ensuring that the user must confirms password
+    * If username and password do not match, it alerts the user
+    * Displaying the user details
 
